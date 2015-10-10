@@ -1,0 +1,266 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\oshw\mechanart_oshw.mdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=mechanart_oshw.mdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=https://github.com/mechanart/AltiumLibrary/trunk/Symbols;https://github.com/mechanart/AltiumLibrary/trunk/Footprints
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Amplifiers
+SVNRepositoryURL=https://github.com/mechanart/AltiumLibrary
+FileRepositoryIsRelative=0
+[Table1]
+SchemaName=
+TableName=Amplifiers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Description0=82|Design Item Id0=97|Comment0=72|Footprint0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=93|Manufacturer Part Number0=160|RoHS0=51|Category0=69|Stock 10=60|Pricing 10=67|Packaging0=76|Type0=46|FET Type0=66|Internal Switch(s)0=111|Delay Time - ON0=104|Delay Time - OFF0=108|Current - Output (Max)0=140|Current - Supply0=107|Voltage - Supply0=108|Applications0=87|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|ComponentLink1URL0=131|ComponentLink1Description0=170|Amplifier Type0=100|Number of Circuits0=100|Output Type0=100|Slew Rate0=100|Gain Bandwidth Product0=100|-3db Bandwidth0=100|Current - Input Bias0=100|Voltage - Input Offset0=100|Current - Output / Channel0=100|Voltage - Supply, Single/Dual (±)0=100
+[Table2]
+SchemaName=
+TableName=Buffers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=112|Design Item Id0=112|Description0=169|Comment0=72|Footprint0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=99|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=517|Packaging0=76|Type0=46|FET Type0=66|Internal Switch(s)0=111|Delay Time - ON0=104|Delay Time - OFF0=108|Current - Output (Max)0=140|Current - Supply0=107|Voltage - Supply0=108|Applications0=87|Operating Temperature0=143|Mounting Type0=101|Package / Case0=164|Supplier Device Package0=147|ComponentLink1URL0=267|ComponentLink1Description0=267|Logic Type0=150|Number of Elements0=127|Number of Bits per Element0=164|Current - Output High, Low0=165
+[Table3]
+SchemaName=
+TableName=Capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=Connectors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=Diodes
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=Inductors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=Level Shifters
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=Logic
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=Memory
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=Microprocessor
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=Miscellaneous
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=Mixers
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table13]
+SchemaName=
+TableName=Resistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Design Item Id0=114|Description0=221|Resistance (Ohms)0=116|Footprint Ref0=106|Comment0=72|Footprint0=106|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=182|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=588|Packaging0=90|Type0=46|FET Type0=66|Internal Switch(s)0=111|Delay Time - ON0=104|Delay Time - OFF0=108|Current - Output (Max)0=140|Current - Supply0=107|Voltage - Supply0=108|Applications0=87|Operating Temperature0=143|Mounting Type0=101|Package / Case0=106|Supplier Device Package0=147|ComponentLink1URL0=506|ComponentLink1Description0=506|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=172|Temperature Coefficient0=146|Size / Dimension0=201|Height0=87|Number of Terminations0=147
+[Table14]
+SchemaName=
+TableName=Switches
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table15]
+SchemaName=
+TableName=Synthesizers
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=Transceiver (digital)
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table17]
+SchemaName=
+TableName=Transistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table18]
+SchemaName=
+TableName=Voltage Regulators
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table19]
+SchemaName=
+TableName=~TMPCLP366611
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=184|Description0=186|Design Item Id0=189|Comment0=160|Footprint0=207|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=101|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=168|Packaging0=76|Type0=145|FET Type0=66|Internal Switch(s)0=111|Delay Time - ON0=104|Delay Time - OFF0=108|Current - Output (Max)0=140|Current - Supply0=107|Voltage - Supply0=108|Applications0=268|Operating Temperature0=143|Mounting Type0=101|Package / Case0=176|Supplier Device Package0=147|ComponentLink1URL0=267|ComponentLink1Description0=267
+[FieldMap1]
+Options=FieldName=Amplifiers.Library Ref|TableNameOnly=Amplifiers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Amplifiers.Description|TableNameOnly=Amplifiers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Amplifiers.Design Item Id|TableNameOnly=Amplifiers|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Buffers.Library Ref|TableNameOnly=Buffers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Buffers.Design Item Id|TableNameOnly=Buffers|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Buffers.Description|TableNameOnly=Buffers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Capacitors.Library Ref|TableNameOnly=Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Capacitors.Design Item Id|TableNameOnly=Capacitors|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Capacitors.Description|TableNameOnly=Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Connectors.Library Ref|TableNameOnly=Connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Connectors.Design Item Id|TableNameOnly=Connectors|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Connectors.Description|TableNameOnly=Connectors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Diodes.Library Ref|TableNameOnly=Diodes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Diodes.Design Item Id|TableNameOnly=Diodes|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Diodes.Description|TableNameOnly=Diodes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Inductors.Library Ref|TableNameOnly=Inductors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Inductors.Design Item Id|TableNameOnly=Inductors|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Inductors.Description|TableNameOnly=Inductors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Level Shifters.Library Ref|TableNameOnly=Level Shifters|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Level Shifters.Design Item Id|TableNameOnly=Level Shifters|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Level Shifters.Description|TableNameOnly=Level Shifters|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Logic.Design Item Id|TableNameOnly=Logic|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Logic.Library Ref|TableNameOnly=Logic|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Logic.Description|TableNameOnly=Logic|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Memory.Design Item Id|TableNameOnly=Memory|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Memory.Library Ref|TableNameOnly=Memory|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Memory.Description|TableNameOnly=Memory|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Microprocessor.Design Item Id|TableNameOnly=Microprocessor|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Microprocessor.Library Ref|TableNameOnly=Microprocessor|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Microprocessor.Description|TableNameOnly=Microprocessor|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Miscellaneous.Design Item Id|TableNameOnly=Miscellaneous|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Miscellaneous.Library Ref|TableNameOnly=Miscellaneous|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Miscellaneous.Description|TableNameOnly=Miscellaneous|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Mixers.Library Ref|TableNameOnly=Mixers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Mixers.Design Item Id|TableNameOnly=Mixers|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Mixers.Description|TableNameOnly=Mixers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Resistors.Library Ref|TableNameOnly=Resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Resistors.Design Item Id|TableNameOnly=Resistors|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Resistors.Description|TableNameOnly=Resistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=Resistors.Resistance (Ohms)|TableNameOnly=Resistors|FieldNameOnly=Resistance (Ohms)|FieldType=1|ParameterName=Resistance|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=Resistors.Footprint Ref|TableNameOnly=Resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Switches.Library Ref|TableNameOnly=Switches|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=Switches.Description|TableNameOnly=Switches|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=Switches.Design Item Id|TableNameOnly=Switches|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Synthesizers.Design Item Id|TableNameOnly=Synthesizers|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Synthesizers.Library Ref|TableNameOnly=Synthesizers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Synthesizers.Description|TableNameOnly=Synthesizers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Transceiver (digital).Library Ref|TableNameOnly=Transceiver (digital)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Transceiver (digital).Design Item Id|TableNameOnly=Transceiver (digital)|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Transceiver (digital).Description|TableNameOnly=Transceiver (digital)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Transistors.Library Ref|TableNameOnly=Transistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Transistors.Design Item Id|TableNameOnly=Transistors|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Transistors.Description|TableNameOnly=Transistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Voltage Regulators.Library Ref|TableNameOnly=Voltage Regulators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Voltage Regulators.Description|TableNameOnly=Voltage Regulators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Voltage Regulators.Design Item Id|TableNameOnly=Voltage Regulators|FieldNameOnly=Design Item Id|FieldType=0|ParameterName=Design Item Id|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=~TMPCLP366611.Library Ref|TableNameOnly=~TMPCLP366611|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=~TMPCLP366611.Description|TableNameOnly=~TMPCLP366611|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
