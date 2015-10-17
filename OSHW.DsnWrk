@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=HMode_eGaN\HMode_eGaN.PrjPcb
+[Project2]
+ProjectPath=mini-DVM\trunk\mini_DVM.PrjPcb
