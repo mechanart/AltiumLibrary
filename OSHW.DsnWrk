@@ -1,8 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=projects\ghz_sig_gen\trunk\board\altium\ghz_sig_gen\ghz_sig_gen_base.PrjPcb
+ProjectPath=HMode_eGaN\HMode_eGaN.PrjPcb
 [Project2]
-ProjectPath=projects\mini-DVM\trunk\mini_DVM.PrjPcb
-[Project3]
-ProjectPath=pcblibrary_tmp\RESC1005X40L25N.prjscr
+ProjectPath=mini-DVM\trunk\mini_DVM.PrjPcb
