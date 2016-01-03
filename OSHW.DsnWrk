@@ -1,8 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=HMode_eGaN\HMode_eGaN.PrjPcb
+ProjectPath=projects\mini-DVM\trunk\mini_DVM.PrjPcb
 [Project2]
-ProjectPath=mini-DVM\trunk\mini_DVM.PrjPcb
-[Project3]
-ProjectPath=..\Hardware\ApplicationModule\trunk\Development Boards\Application Core Programming Adapter\ACPA.PrjPcb
+ProjectPath=projects\ghz_sig_gen\trunk\board\sig_gen_card.PrjPcb
