@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/mechanart/AltiumLibrary/trunk/Symbols;https
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Connectors
+LastFocusedTable=Capacitors
 SVNRepositoryURL=https://github.com/mechanart/AltiumLibrary
 FileRepositoryIsRelative=0
 [Table1]
@@ -40,15 +40,15 @@ TableName=Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=Footprint Ref0=Up
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Design Item Id0=129|Description0=178|Comment0=72|Footprint Ref0=108|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=179|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=541|Packaging0=76|Type0=46|FET Type0=66|Internal Switch(s)0=111|Delay Time - ON0=104|Delay Time - OFF0=108|Current - Output (Max)0=140|Current - Supply0=107|Voltage - Supply0=108|Applications0=169|Operating Temperature0=143|Mounting Type0=119|Package / Case0=100|Supplier Device Package0=147|ComponentLink1URL0=726|ComponentLink1Description0=726|Capacitance0=85|Tolerance0=72|Voltage - Rated0=103|Temperature Coefficient0=146|Ratings0=62|Size / Dimension0=201|Height - Seated (Max)0=133|Thickness (Max)0=102|Lead Spacing0=91|Features0=149|Lead Style0=74
 [Table4]
 SchemaName=
 TableName=Connectors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=113|Design Item Id0=155|Description0=214|Footprint Ref0=211|Comment0=93|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=202|Manufacturer Part Number0=160|RoHS0=92|Category0=143|Stock 10=60|Pricing 10=594|Packaging0=76|Type0=46|FET Type0=66|Internal Switch(s)0=111|Delay Time - ON0=104|Delay Time - OFF0=108|Current - Output (Max)0=140|Current - Supply0=107|Voltage - Supply0=108|Applications0=87|Operating Temperature0=143|Mounting Type0=151|Package / Case0=99|Supplier Device Package0=147|ComponentLink1URL0=770|ComponentLink1Description0=770|Contact Type0=89|Connector Type0=116|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=87|Number of Rows0=109|Row Spacing0=90|Contact Mating Length0=142|Termination0=84|Fastening Type0=100|Features0=95|Contact Finish0=97|Contact Finish Thickness0=149|Color0=51|Connector Style0=104|Contact Termination0=127|Shield Termination0=119|Impedance0=79|Cable Group0=88|Frequency - Max0=107|Housing Color0=98|Ingress Protection0=116|Body Material0=94|Body Finish0=83|Center Contact Material0=145|Center Contact Plating0=139|Dielectric Material0=161|Voltage Rating0=100
 [Table5]
 SchemaName=
 TableName=Converters
