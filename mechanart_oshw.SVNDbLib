@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\oshw\mechanart_
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/mechanart/AltiumLibrary/trunk/Symbols;https
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Transformers
+LastFocusedTable=Buffers
 SVNRepositoryURL=https://github.com/mechanart/AltiumLibrary
 FileRepositoryIsRelative=0
 [Table1]
@@ -34,6 +34,9 @@ TableName=Buffers
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=141|Design Item Id0=112|Description0=169|Footprint Ref0=124|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=99|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=517|Packaging0=76|Voltage - Supply0=108|Operating Temperature0=143|Mounting Type0=101|Package / Case0=164|Supplier Device Package0=147|ComponentLink1URL0=267|ComponentLink1Description0=267|Logic Type0=150|Number of Elements0=127|Number of Bits per Element0=164|Current - Output High, Low0=165|Type0=100|Number of Circuits0=100|Input0=100|Output0=100|Frequency - Max0=100
 [Table3]
 SchemaName=
 TableName=Capacitors
@@ -94,36 +97,24 @@ TableName=Microprocessor
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Design Item Id0=104|Library Ref0=113|Description0=192|Comment0=72|Footprint Ref0=183|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=135|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=488|Packaging0=76|Operating Temperature0=143|Mounting Type0=101|Package / Case0=128|Supplier Device Package0=147|ComponentLink1URL0=1026|ComponentLink1Description0=1026|Core Processor0=116|Core Size0=70|Speed0=55|Connectivity0=412|Peripherals0=273|Number of I/O0=97|Program Memory Size0=133|Program Memory Type0=136|EEPROM Size0=90|RAM Size0=70|Voltage - Supply (Vcc/Vdd)0=159|Data Converters0=124|Oscillator Type0=98
 [Table13]
 SchemaName=
 TableName=Miscellaneous
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Design Item Id0=124|Library Ref0=86|Description0=287|Footprint Ref0=183|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=179|Manufacturer Part Number0=160|RoHS0=92|Category0=143|Stock 10=60|Pricing 10=523|Packaging0=76|Type0=68|Current - Supply0=107|Voltage - Supply0=108|Operating Temperature0=143|Mounting Type0=190|Package / Case0=146|Supplier Device Package0=147|ComponentLink1URL0=776|ComponentLink1Description0=776|Circuit0=56|Switch Function0=106|Contact Rating @ Voltage0=157|Actuator Type0=93|Actuator Height off PCB, from Pins0=200|Actuator Orientation0=130|Termination Style0=111|Outline0=97|Illumination0=92|Illumination Voltage (Nominal)0=180|Illumination Type, Color0=145|Operating Force0=107|Ingress Protection0=116|Features0=67|Actuator Material0=118|Switch Travel0=89|Mechanical Life0=102|Display Type0=86|Configuration0=125|Interface0=68|Digits or Characters0=124|Battery Type, Function0=137|Style0=81|Battery Cell Size0=104|Number of Cells0=105|Battery Series0=92|Height Above Board0=127|Function0=69|Output Configuration0=137|Topology0=71|Output Type0=87|Number of Outputs0=124|Voltage - Input (Min)0=130|Voltage - Input (Max)0=131|Voltage - Output (Min/Fixed)0=171|Voltage - Output (Max)0=141|Current - Output0=110|Frequency - Switching0=137|Synchronous Rectifier0=135|Supplier 20=75|Supplier Part Number 20=142|Stock 20=60|Pricing 20=286|Frequency0=76|Frequency Stability0=120|Frequency Tolerance0=128|Load Capacitance0=113|ESR (Equivalent Series Resistance)0=195|Operating Mode0=109|Ratings0=62|Size / Dimension0=201|Height0=87|ComponentLink2URL0=438|ComponentLink2Description0=438|Card Type0=140|Number of Positions0=128|Connector Type0=123|Insertion, Removal Method0=162|Ejector Side0=83|Mounting Feature0=127|Contact Finish0=97|Contact Finish Thickness0=149|Contact Type0=89|Number of Positions Loaded0=169|Pitch0=87|Number of Rows0=109|Row Spacing0=90|Contact Mating Length0=142|Termination0=84|Fastening Type0=100|Color0=51|ComponentLink3URL0=267|ComponentLink3Description0=267|Lens Style/Size0=152
 [Table14]
 SchemaName=
 TableName=Mixers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Design Item Id0=97|Description0=82|Footprint Ref0=92|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=93|Manufacturer Part Number0=160|RoHS0=51|Category0=69|Stock 10=60|Pricing 10=67|Packaging0=76|Type0=46|FET Type0=66|Internal Switch(s)0=111|Delay Time - ON0=104|Delay Time - OFF0=108|Current - Output (Max)0=140|Current - Supply0=107|Voltage - Supply0=108|Applications0=87|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|ComponentLink1URL0=131|ComponentLink1Description0=170
 [Table15]
 SchemaName=
 TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Description0=199|Resistance (Ohms)0=116|Footprint Ref0=112|Comment0=72|Design Item Id0=117|Footprint0=106|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=182|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=588|Packaging0=90|Operating Temperature0=143|Mounting Type0=101|Package / Case0=106|Supplier Device Package0=147|ComponentLink1URL0=562|ComponentLink1Description0=562|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=199|Temperature Coefficient0=146|Size / Dimension0=201|Height0=87|Number of Terminations0=147
 [Table16]
 SchemaName=
 TableName=Switches
@@ -136,36 +127,24 @@ TableName=Synthesizers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Design Item Id0=97|Library Ref0=77|Description0=187|Footprint Ref0=192|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=104|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=376|Packaging0=76|Package / Case0=99|Supplier Device Package0=147|ComponentLink1URL0=367|ComponentLink1Description0=367
 [Table18]
 SchemaName=
 TableName=Transceiver (digital)
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=90|Design Item Id0=111|Description0=160|Footprint Ref0=124|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=99|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=328|Packaging0=76|Type0=64|Voltage - Supply0=108|Operating Temperature0=143|Mounting Type0=101|Package / Case0=217|Supplier Device Package0=147|ComponentLink1URL0=265|ComponentLink1Description0=265|Protocol0=66|Number of Drivers/Receivers0=167|Duplex0=59|Receiver Hysteresis0=119|Data Rate0=73
 [Table19]
 SchemaName=
 TableName=Transformers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Design Item Id0=97|Comment0=72|Library Ref0=77|Footprint Ref0=92|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=93|Manufacturer Part Number0=160|RoHS0=51|Description0=82|Category0=69|Stock 10=60|Pricing 10=67|Packaging0=76|Type0=46|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|ComponentLink1URL0=131|ComponentLink1Description0=170|Material - Core0=99|Inductance0=80|Tolerance0=72|Current Rating0=99|Current - Saturation0=126|Shielding0=72|DC Resistance (DCR)0=126|Q @ Freq0=72|Frequency - Self Resonant0=157|Frequency - Test0=106|Size / Dimension0=108|Height - Seated (Max)0=133|Ratings0=62|Filter Type0=75|Number of Lines0=107|Impedance @ Frequency0=149|Current Rating (Max)0=129|DC Resistance (DCR) (Max)0=156|Height (Max)0=88|Frequency Range0=100|Impedance - Unbalanced/Balanced0=100|Phase Difference0=100|Insertion Loss (Max)0=100|Return Loss (Min)0=100
 [Table20]
 SchemaName=
 TableName=Transistors
 Enabled=True
 UserWhere=0
 UserWhereText=[Design Item Id] = '{Design Item Id}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Description0=177|Footprint Ref0=123|Design Item Id0=101|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=132|Manufacturer Part Number0=160|RoHS0=92|Category0=177|Stock 10=60|Pricing 10=340|Packaging0=76|FET Type0=176|Mounting Type0=101|Package / Case0=200|Supplier Device Package0=147|ComponentLink1URL0=309|ComponentLink1Description0=309|FET Feature0=82|Drain to Source Voltage (Vdss)0=179|Current - Continuous Drain (Id) @ 25°C0=223|Rds On (Max) @ Id, Vgs0=143|Vgs(th) (Max) @ Id0=116|Gate Charge (Qg) @ Vgs0=148|Input Capacitance (Ciss) @ Vds0=181|Power - Max0=86
 [Table21]
 SchemaName=
 TableName=Voltage Regulators
