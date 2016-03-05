@@ -82,6 +82,9 @@ TableName=Logic
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Design Item Id0=97|Library Ref0=77|Description0=82|Footprint Ref0=92|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=93|Manufacturer Part Number0=160|RoHS0=51|Category0=69|Stock 10=60|Pricing 10=67|Packaging0=76|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|ComponentLink1URL0=131|ComponentLink1Description0=170|Logic Type0=76|Number of Elements0=127|Number of Bits per Element0=164|Current - Output High, Low0=165|Function0=100|Type0=100|Output Type0=100|Frequency - Clock0=100|Max Propagation Delay @ V, Max CL0=100|Trigger Type0=100|Voltage - Supply0=100|Current - Quiescent0=100|Input Capacitance0=100
 [Table11]
 SchemaName=
 TableName=Memory
@@ -120,7 +123,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Description0=199|Resistance (Ohms)0=116|Footprint Ref0=112|Comment0=72|Design Item Id0=117|Footprint0=106|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=182|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=588|Packaging0=90|Operating Temperature0=143|Mounting Type0=101|Package / Case0=106|Supplier Device Package0=147|ComponentLink1URL0=562|ComponentLink1Description0=562|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=199|Temperature Coefficient0=146|Size / Dimension0=201|Height0=87|Number of Terminations0=147
+BrowserOrder_Visible=Library Ref0=77|Description0=406|Resistance (Ohms)0=116|Footprint Ref0=112|Comment0=72|Design Item Id0=117|Footprint0=106|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=182|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=588|Packaging0=90|Operating Temperature0=143|Mounting Type0=101|Package / Case0=106|Supplier Device Package0=147|ComponentLink1URL0=562|ComponentLink1Description0=562|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=199|Temperature Coefficient0=146|Size / Dimension0=201|Height0=87|Number of Terminations0=147
 [Table17]
 SchemaName=
 TableName=Switches
@@ -157,9 +160,6 @@ TableName=Voltage Regulators
 Enabled=True
 UserWhere=0
 UserWhereText=[Design Item Id] = '{Design Item Id}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Description0=187|Design Item Id0=97|Footprint Ref0=177|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=188|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=393|Packaging0=76|Type0=100|Voltage - Supply0=108|Operating Temperature0=143|Mounting Type0=101|Package / Case0=285|Supplier Device Package0=147|ComponentLink1URL0=264|ComponentLink1Description0=264|Output Type0=87|Number of Outputs0=124|Voltage - Output0=111|Voltage - Input0=101|Frequency - Switching0=137|Current - Output0=110|Synchronous Rectifier0=135|Regulator Topology0=125|Voltage - Dropout (Typical)0=160|Number of Regulators0=137|Current - Limit (Min)0=125|Function0=116|Battery Chemistry0=112|Output Configuration0=137|Topology0=71|Voltage - Input (Min)0=130|Voltage - Input (Max)0=131|Voltage - Output (Min/Fixed)0=171|Voltage - Output (Max)0=141
 [Table23]
 SchemaName=
 TableName=~TMPCLP366611
