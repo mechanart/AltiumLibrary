@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/mechanart/AltiumLibrary/trunk/Symbols;https
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Resistors
+LastFocusedTable=Diodes
 SVNRepositoryURL=https://github.com/mechanart/AltiumLibrary
 FileRepositoryIsRelative=0
 [Table1]
@@ -40,6 +40,9 @@ TableName=Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=Footprint Ref0=Up
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Design Item Id0=132|Description0=184|Comment0=72|Footprint Ref0=108|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=179|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=541|Packaging0=76|Applications0=169|Operating Temperature0=143|Mounting Type0=119|Package / Case0=100|Supplier Device Package0=147|ComponentLink1URL0=726|ComponentLink1Description0=726|Capacitance0=85|Tolerance0=72|Voltage - Rated0=103|Temperature Coefficient0=146|Ratings0=62|Size / Dimension0=201|Height - Seated (Max)0=133|Thickness (Max)0=102|Lead Spacing0=91|Features0=149|Lead Style0=74
 [Table4]
 SchemaName=
 TableName=Connectors
@@ -64,6 +67,9 @@ TableName=Diodes
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Design Item Id0=157|Description0=220|Footprint Ref0=192|Comment0=72|Supplier 10=75|Supplier Part Number 10=189|Manufacturer0=118|Manufacturer Part Number0=160|RoHS0=92|Category0=97|Stock 10=60|Pricing 10=516|Packaging0=76|Type0=115|Applications0=87|Operating Temperature0=143|Mounting Type0=101|Package / Case0=100|Supplier Device Package0=147|ComponentLink1URL0=516|ComponentLink1Description0=516|Unidirectional Channels0=147|Bidirectional Channels0=139|Voltage - Reverse Standoff (Typ)0=186|Voltage - Breakdown (Min)0=161|Voltage - Clamping (Max) @ Ipp0=186|Current - Peak Pulse (10/1000µs)0=187|Power - Peak Pulse0=119|Power Line Protection0=135|Capacitance @ Frequency0=155|Color0=125|Lens Color0=77|Lens Transparency0=116|Millicandela Rating0=226|Lens Style/Size0=224|Voltage - Forward (Vf) (Typ)0=162|Current - Test0=187|Viewing Angle0=98|Wavelength - Dominant0=214|Wavelength - Peak0=205|Features0=67|Size / Dimension0=119|Height (Max)0=88|Diode Type0=100|Voltage - DC Reverse (Vr) (Max)0=100|Current - Average Rectified (Io)0=100|Voltage - Forward (Vf) (Max) @ If0=100|Speed0=100|Reverse Recovery Time (trr)0=100|Current - Reverse Leakage @ Vr0=100|Capacitance @ Vr, F0=100|Operating Temperature - Junction0=100|ComponentLink2URL0=100|ComponentLink2Description0=100
 [Table8]
 SchemaName=
 TableName=Inductors
@@ -82,9 +88,6 @@ TableName=Logic
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Design Item Id0=97|Library Ref0=77|Description0=82|Footprint Ref0=92|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=93|Manufacturer Part Number0=160|RoHS0=51|Category0=69|Stock 10=60|Pricing 10=67|Packaging0=76|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|ComponentLink1URL0=131|ComponentLink1Description0=170|Logic Type0=76|Number of Elements0=127|Number of Bits per Element0=164|Current - Output High, Low0=165|Function0=100|Type0=100|Output Type0=100|Frequency - Clock0=100|Max Propagation Delay @ V, Max CL0=100|Trigger Type0=100|Voltage - Supply0=100|Current - Quiescent0=100|Input Capacitance0=100
 [Table11]
 SchemaName=
 TableName=Memory
@@ -121,9 +124,9 @@ TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
+BrowserOrder_Sorting=Footprint Ref0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Description0=406|Resistance (Ohms)0=116|Footprint Ref0=112|Comment0=72|Design Item Id0=117|Footprint0=106|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=182|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=588|Packaging0=90|Operating Temperature0=143|Mounting Type0=101|Package / Case0=106|Supplier Device Package0=147|ComponentLink1URL0=562|ComponentLink1Description0=562|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=199|Temperature Coefficient0=146|Size / Dimension0=201|Height0=87|Number of Terminations0=147
+BrowserOrder_Visible=Library Ref0=77|Description0=406|Resistance (Ohms)0=116|Footprint Ref0=112|Comment0=72|Design Item Id0=117|Footprint0=106|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=182|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=588|Packaging0=90|Operating Temperature0=143|Mounting Type0=101|Package / Case0=106|Supplier Device Package0=147|ComponentLink1URL0=562|ComponentLink1Description0=562|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=289|Temperature Coefficient0=146|Size / Dimension0=201|Height0=87|Number of Terminations0=147
 [Table17]
 SchemaName=
 TableName=Switches
