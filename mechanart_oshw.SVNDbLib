@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/mechanart/AltiumLibrary/trunk/Symbols;https
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Resistors
+LastFocusedTable=Logic
 SVNRepositoryURL=https://github.com/mechanart/AltiumLibrary
 FileRepositoryIsRelative=0
 [Table1]
@@ -82,6 +82,9 @@ TableName=Logic
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Design Item Id0=109|Library Ref0=88|Description0=170|Footprint Ref0=129|Comment0=72|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=99|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=340|Packaging0=76|Operating Temperature0=143|Mounting Type0=101|Package / Case0=143|Supplier Device Package0=147|ComponentLink1URL0=268|ComponentLink1Description0=268|Logic Type0=76|Number of Elements0=127|Number of Bits per Element0=164|Current - Output High, Low0=165|Function0=69|Type0=46|Output Type0=87|Frequency - Clock0=114|Max Propagation Delay @ V, Max CL0=208|Trigger Type0=85|Voltage - Supply0=108|Current - Quiescent0=124|Input Capacitance0=116|Number of Circuits0=119|Number of Inputs0=114|Features0=85|Current - Quiescent (Max)0=154|Logic Level - Low0=109|Logic Level - High0=113
 [Table11]
 SchemaName=
 TableName=Memory
@@ -118,9 +121,6 @@ TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Description0=406|Resistance (Ohms)0=116|Footprint Ref0=112|Comment0=72|Design Item Id0=117|Footprint0=106|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=182|Manufacturer Part Number0=160|RoHS0=92|Category0=69|Stock 10=60|Pricing 10=588|Packaging0=90|Operating Temperature0=143|Mounting Type0=101|Package / Case0=106|Supplier Device Package0=147|ComponentLink1URL0=562|ComponentLink1Description0=562|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=289|Temperature Coefficient0=146|Size / Dimension0=201|Height0=87|Number of Terminations0=147
 [Table17]
 SchemaName=
 TableName=Switches
@@ -163,9 +163,6 @@ TableName=~TMPCLP366611
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=184|Description0=186|Design Item Id0=189|Comment0=160|Footprint0=207|Supplier 10=75|Supplier Part Number 10=142|Manufacturer0=101|Manufacturer Part Number0=160|RoHS0=92|Category0=127|Stock 10=60|Pricing 10=168|Packaging0=76|Type0=145|FET Type0=66|Internal Switch(s)0=111|Delay Time - ON0=104|Delay Time - OFF0=108|Current - Output (Max)0=140|Current - Supply0=107|Voltage - Supply0=108|Applications0=268|Operating Temperature0=143|Mounting Type0=101|Package / Case0=176|Supplier Device Package0=147|ComponentLink1URL0=267|ComponentLink1Description0=267
 [FieldMap1]
 Options=FieldName=Amplifiers.Library Ref|TableNameOnly=Amplifiers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
